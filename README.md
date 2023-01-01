@@ -1,5 +1,9 @@
 # Sources
 
+Columbus, OH: <br/>
+Parcel Information- https://opendata.columbus.gov/datasets/columbus::address-points-1 <br/>
+Imagery- https://maps.columbus.gov/arcgis/rest/services/Imagery/Imagery2021/MapServer <br/>
+
 Chicago, IL: <br/>
 Parcel Information- https://datacatalog.cookcountyil.gov/Property-Taxation/Assessor-Parcel-Universe/tx2p-k2g9/data <br/>
 Imagery- https://gis.cookcountyil.gov/imagery/rest/services/CookOrtho2021/ImageServer <br/>
