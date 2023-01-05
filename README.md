@@ -1,3 +1,7 @@
+# Crevasse
+Created by Luke Steinbicker, Andrew Norway
+Contact us at main@crevasse.org
+
 # Sources
 
 Columbus, OH: <br/>
