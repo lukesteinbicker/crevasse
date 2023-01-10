@@ -1,4 +1,3 @@
-# Crevasse
 Created by Luke Steinbicker, Andrew Norway <br/>
 Contact us at main@crevasse.org to look at our full codebase or download our network. <br/>
 
