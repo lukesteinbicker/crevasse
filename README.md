@@ -9,7 +9,10 @@ A frequent problem in developing nations without extensive public records is the
 
 ### Methodology
 
-![Layout](https://user-images.githubusercontent.com/121472675/212434677-07c2b358-7c55-44d1-b1f1-7d5a00e83c39.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/121472675/212434677-07c2b358-7c55-44d1-b1f1-7d5a00e83c39.png"
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/121472675/212435032-e41f9fc9-0838-4bb3-9571-78443240ef28.png"
+</picture>
 
 ### Data Sources
 Columbus, OH: <br/>
