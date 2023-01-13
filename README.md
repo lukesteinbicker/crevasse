@@ -10,8 +10,8 @@ A frequent problem in developing nations without extensive public records is the
 ### Methodology
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/121472675/212434677-07c2b358-7c55-44d1-b1f1-7d5a00e83c39.png"
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/121472675/212435032-e41f9fc9-0838-4bb3-9571-78443240ef28.png"
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
 ### Data Sources
