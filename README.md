@@ -1,7 +1,17 @@
+#Crevasse
+
 Created by Luke Steinbicker, Andrew Norway <br/>
 Contact us at main@crevasse.org to look at our full codebase or download our network. <br/>
 
-# Data Sources
+## Building Classifier
+
+A frequent problem in developing nations without extensive public records is the identification of building types within a city. By training a neural network using millions of high resolution aerial images, we aim to combat this challenge and enable the rapid categorization of structures within a city.
+
+### Methodology
+
+![Image](https://www.crevasse.org/wp-content/uploads/2023/01/Layout-1.jpg)
+
+### Data Sources
 Columbus, OH: <br/>
 Parcel Information- https://opendata.columbus.gov/datasets/columbus::address-points-1 <br/>
 Imagery- https://maps.columbus.gov/arcgis/rest/services/Imagery/Imagery2021/MapServer <br/>
