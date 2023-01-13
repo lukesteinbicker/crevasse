@@ -9,7 +9,7 @@ A frequent problem in developing nations without extensive public records is the
 
 ### Methodology
 
-![Image](https://www.crevasse.org/wp-content/uploads/2023/01/Layout-1.jpg)
+![Layout](https://user-images.githubusercontent.com/121472675/212434677-07c2b358-7c55-44d1-b1f1-7d5a00e83c39.png)
 
 ### Data Sources
 Columbus, OH: <br/>
