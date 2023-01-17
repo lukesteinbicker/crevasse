@@ -16,24 +16,24 @@ A frequent problem in developing nations without extensive public records is the
 </picture>
 
 ### Data Sources
-Columbus, OH: <br/>
-- https://opendata.columbus.gov/datasets/columbus::address-points-1 <br/>
-- https://maps.columbus.gov/arcgis/rest/services/Imagery/Imagery2021/MapServer <br/>
-Chicago, IL: <br/>
-- https://datacatalog.cookcountyil.gov/Property-Taxation/Assessor-Parcel-Universe/tx2p-k2g9/data <br/>
-- https://gis.cookcountyil.gov/imagery/rest/services/CookOrtho2021/ImageServer <br/>
-Los Angeles, CA: <br/>
-- https://geohub.lacity.org/datasets/6d85cb5f5f5641c6aa95203849ca05bb_0 <br/>
-- https://cache.gis.lacounty.gov/cache/rest/services/LACounty_Cache/LACounty_Aerial_2014/MapServer <br/>
-Wilmington, NC: <br/>
-- https://www.nconemap.gov/datasets/nconemap::north-carolina-parcels-centroids <br/>
-- https://services.nconemap.gov/secure/rest/services/Imagery/Orthoimagery_Latest/ImageServer <br/>
-Winston Salem, NC: <br/>
-- https://www.nconemap.gov/datasets/nconemap::north-carolina-parcels-centroids <br/>
-- https://services.nconemap.gov/secure/rest/services/Imagery/Orthoimagery_Latest/ImageServer <br/>
-Greensboro, NC: <br/>
-- https://www.nconemap.gov/datasets/nconemap::north-carolina-parcels-centroids <br/>
-- https://services.nconemap.gov/secure/rest/services/Imagery/Orthoimagery_Latest/ImageServer <br/>
-Washington, DC: <br/>
-- https://opendata.dc.gov/datasets/DCGIS::existing-land-use <br/>
-- https://imagery.dcgis.dc.gov/dcgis/rest/services/Ortho/Ortho_2021/ImageServer <br/>
+- Columbus, OH <br/>
+  - https://opendata.columbus.gov/datasets/columbus::address-points-1 <br/>
+  - https://maps.columbus.gov/arcgis/rest/services/Imagery/Imagery2021/MapServer <br/>
+- Chicago, IL <br/>
+  - https://datacatalog.cookcountyil.gov/Property-Taxation/Assessor-Parcel-Universe/tx2p-k2g9/data <br/>
+  - https://gis.cookcountyil.gov/imagery/rest/services/CookOrtho2021/ImageServer <br/>
+- Los Angeles, CA <br/>
+  - https://geohub.lacity.org/datasets/6d85cb5f5f5641c6aa95203849ca05bb_0 <br/>
+  - https://cache.gis.lacounty.gov/cache/rest/services/LACounty_Cache/LACounty_Aerial_2014/MapServer <br/>
+- Wilmington, NC <br/>
+  - https://www.nconemap.gov/datasets/nconemap::north-carolina-parcels-centroids <br/>
+  - https://services.nconemap.gov/secure/rest/services/Imagery/Orthoimagery_Latest/ImageServer <br/>
+- Winston Salem, NC <br/>
+  - https://www.nconemap.gov/datasets/nconemap::north-carolina-parcels-centroids <br/>
+  - https://services.nconemap.gov/secure/rest/services/Imagery/Orthoimagery_Latest/ImageServer <br/>
+- Greensboro, NC <br/>
+  - https://www.nconemap.gov/datasets/nconemap::north-carolina-parcels-centroids <br/>
+  - https://services.nconemap.gov/secure/rest/services/Imagery/Orthoimagery_Latest/ImageServer <br/>
+- Washington, DC <br/>
+  - https://opendata.dc.gov/datasets/DCGIS::existing-land-use <br/>
+  - https://imagery.dcgis.dc.gov/dcgis/rest/services/Ortho/Ortho_2021/ImageServer <br/>
