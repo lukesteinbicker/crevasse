@@ -19,9 +19,6 @@ A frequent problem in developing nations without extensive public records is the
 - Portland, OR <br/>
   - https://gis-pdx.opendata.arcgis.com/datasets/PDX::buildings <br/>
   - https://www.portlandmaps.com/arcgis/rest/services/Public/Aerial_Photos_Summer_2021/MapServer <br/>
-- Columbus, OH <br/>
-  - https://opendata.columbus.gov/datasets/columbus::address-points-1 <br/>
-  - https://maps.columbus.gov/arcgis/rest/services/Imagery/Imagery2021/MapServer <br/>
 - Chicago, IL <br/>
   - https://datacatalog.cookcountyil.gov/Property-Taxation/Assessor-Parcel-Universe/tx2p-k2g9/data <br/>
   - https://gis.cookcountyil.gov/imagery/rest/services/CookOrtho2021/ImageServer <br/>
