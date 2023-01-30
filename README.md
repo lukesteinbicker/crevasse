@@ -16,6 +16,9 @@ A frequent problem in developing nations without extensive public records is the
 </picture>
 
 ### Data Sources
+- New York, NY <br/>
+  - https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/64uk-42ks/data <br/>
+  - https://orthos.its.ny.gov/arcgis/rest/services/wms/2022/MapServer <br/>
 - Portland, OR <br/>
   - https://gis-pdx.opendata.arcgis.com/datasets/PDX::buildings <br/>
   - https://www.portlandmaps.com/arcgis/rest/services/Public/Aerial_Photos_Summer_2021/MapServer <br/>
