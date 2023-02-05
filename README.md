@@ -31,3 +31,18 @@ A frequent problem in developing nations without extensive public records is the
 - Washington, DC <br/>
   - https://opendata.dc.gov/datasets/DCGIS::existing-land-use <br/>
   - https://imagery.dcgis.dc.gov/dcgis/rest/services/Ortho/Ortho_2021/ImageServer <br/>
+- Buffalo, NY <br/>
+  - https://data.buffalony.gov/Government/Current-Assessment-Roll-2022-2023-/4t8s-9yih <br/>
+  - https://gis.buffalony.gov/server/rest/services/Hosted/Buffalo2021/MapServer <br/>
+- Las Vegas, NV <br/>
+  - https://opendataportal-lasvegas.opendata.arcgis.com/datasets/parcels-and-assessor-information/explore <br/>
+  - https://maps.clarkcountynv.gov/arcgis_images/rest/services/CACHED/ImagesS20/MapServer <br/>
+- Seattle, WA <br/>
+  - https://gis-kingcounty.opendata.arcgis.com/datasets/parcels-for-king-county-with-address-with-property-information-parcel-address-area/explore <br/>
+  - https://gismaps.kingcounty.gov/arcgis/rest/services/BaseMaps/KingCo_Aerial_2021/MapServer <br/>
+- Minneapolis, MN <br/>
+  - https://gis-hennepin.hub.arcgis.com/datasets/county-parcels/explore?showTable=true <br/>
+  - https://gis.hennepin.us/arcgis/rest/services/Imagery/UTM_Aerial_2021/MapServer <br/>
+- Philadelphia, PA <br/>
+  - https://www.opendataphilly.org/dataset/opa-property-assessments <br/>
+  - https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2020_3in/MapServer <br/>
