@@ -5,7 +5,7 @@ Contact us at main@crevasse.org to look at our full codebase or download our net
 
 ## Building Classifier
 
-A frequent problem in developing nations without extensive public records is the identification of building types within a city. By training a neural network using millions of high resolution aerial images, we aim to combat this challenge and enable the rapid categorization of structures within a city.
+Building detection methods are already well-developed, but developing a way to discern intended building use poses a unique challenge. We aim to train a neural network using millions of high resolution aerial images, enabling the rapid categorization of structures within an area.
 
 ### Simplified Methodology
 
@@ -18,7 +18,7 @@ A frequent problem in developing nations without extensive public records is the
 ### Data Sources
 - Boston, MA <br/>
   - https://dataverse.harvard.edu/file.xhtml?fileId=6416148&version=1.0 <br/>
-  - https://tiles.arcgis.com/tiles/hGdibHYSPO59RG1h/arcgis/rest/services/orthos2021/MapServer?f=html&cacheKey=a5b526e09d4312d2 <br/>
+  - https://tiles.arcgis.com/tiles/hGdibHYSPO59RG1h/arcgis/rest/services/orthos2021/MapServer <br/>
 - New York, NY <br/>
   - https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/64uk-42ks/data <br/>
   - https://orthos.its.ny.gov/arcgis/rest/services/wms/2022/MapServer <br/>
