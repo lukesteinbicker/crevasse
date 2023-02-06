@@ -46,3 +46,6 @@ Building detection methods are already well-developed, but developing a way to d
 - Philadelphia, PA <br/>
   - https://www.opendataphilly.org/dataset/opa-property-assessments <br/>
   - https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2020_3in/MapServer <br/>
+- Miami, FL <br/>
+  - Requested from Miami GIS <br/>
+  - https://imageserverintra.miamidade.gov/arcgis/rest/services/WGS1984_WebMercator/2021_Woolpert_WGS1984_WebMercator/ImageServer <br/>
