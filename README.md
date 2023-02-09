@@ -3,7 +3,7 @@
 Created by Luke Steinbicker, Andrew Norway <br/>
 Contact us at main@crevasse.org to look at our full codebase or download our network. <br/>
 
-## Building Classifier
+## Building Classifier - Estimated to Release by March 1, 2023
 
 Building detection methods are already well-developed, but developing a way to discern intended building use poses a unique challenge. We aim to train a neural network using millions of high resolution aerial images, enabling the rapid categorization of structures within an area.
 
@@ -40,9 +40,9 @@ Building detection methods are already well-developed, but developing a way to d
 - Seattle, WA <br/>
   - https://gis-kingcounty.opendata.arcgis.com/datasets/parcels-for-king-county-with-address-with-property-information-parcel-address-area/explore <br/>
   - https://gismaps.kingcounty.gov/arcgis/rest/services/BaseMaps/KingCo_Aerial_2021/MapServer <br/>
-- Minneapolis, MN <br/>
-  - https://gis-hennepin.hub.arcgis.com/datasets/county-parcels/explore?showTable=true <br/>
-  - https://gis.hennepin.us/arcgis/rest/services/Imagery/UTM_Aerial_2021/MapServer <br/>
+- Alameda, CA <br/>
+  - https://data.acgov.org/datasets/b55c25ae04fc47fc9c188dbbfcd51192_0/explore <br/>
+  - https://tiles.arcgis.com/tiles/ROBnTHSNjoZ2Wm1P/arcgis/rest/services/Aerial_Imagery_2017/MapServer <br/>
 - Philadelphia, PA <br/>
   - https://www.opendataphilly.org/dataset/opa-property-assessments <br/>
   - https://tiles.arcgis.com/tiles/fLeGjb7u4uXqeF9q/arcgis/rest/services/CityImagery_2020_3in/MapServer <br/>
