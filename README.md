@@ -34,9 +34,9 @@ Building detection methods are already well-developed, but developing a way to d
 - Buffalo, NY <br/>
   - https://data.buffalony.gov/Government/Current-Assessment-Roll-2022-2023-/4t8s-9yih <br/>
   - https://gis.buffalony.gov/server/rest/services/Hosted/Buffalo2021/MapServer <br/>
-- Las Vegas, NV <br/>
-  - https://opendataportal-lasvegas.opendata.arcgis.com/datasets/lasvegas::zoning-1/explore <br/>
-  - https://maps.clarkcountynv.gov/arcgis_images/rest/services/CACHED/ImagesS20/MapServer <br/>
+- Phoenix, AZ <br/>
+  - https://koordinates.com/layer/111362-maricopa-county-arizona-parcels/ <br/>
+  - https://gis.mcassessor.maricopa.gov/arcgis/rest/services/Aerials2022/MapServer <br/>
 - Seattle, WA <br/>
   - https://gis-kingcounty.opendata.arcgis.com/datasets/parcels-for-king-county-with-address-with-property-information-parcel-address-area/explore <br/>
   - https://gismaps.kingcounty.gov/arcgis/rest/services/BaseMaps/KingCo_Aerial_2021/MapServer <br/>
