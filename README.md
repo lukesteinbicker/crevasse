@@ -3,7 +3,7 @@
 Created by Luke Steinbicker, Andrew Norway <br/>
 Contact us at main@crevasse.org to look at our full codebase or download our network. <br/>
 
-## Building Classifier - Estimated to Release by March 1, 2023
+## Building Classifier - Estimated to Release by March 11, 2023
 
 Building detection methods are already well-developed, but developing a way to discern intended building use poses a unique challenge. We aim to train a neural network using millions of high resolution aerial images, enabling the rapid categorization of structures within an area.
 
