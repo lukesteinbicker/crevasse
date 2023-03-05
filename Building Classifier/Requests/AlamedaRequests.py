@@ -24,6 +24,8 @@ useDict = {
 }
 
 def getRequest(session, rowValue):
+  if rowValue % 1000 == 0:
+    print(str(rowValue) + " rows complete")
   y = data.iloc[rowValue, 2]
   x = data.iloc[rowValue, 1]
   useCode = str(data.iloc[rowValue, 3])
