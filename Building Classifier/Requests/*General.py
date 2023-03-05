@@ -25,7 +25,9 @@ useDict = { #use codes from parcel csv file are sorted into this use code dictio
   **dict.fromkeys([], "Retail/")
 }
 
-def getRequest(session, rowValue):
+def getRequest(session, rowValue):\
+  if rowValue % 1000 == 0:
+    print(str(rowValue) + " rows complete")
   lat = data.iloc[rowValue, 2]
   long = data.iloc[rowValue, 1]
   useCode = str(data.iloc[rowValue, 0])
