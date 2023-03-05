@@ -3,7 +3,7 @@ import requests
 import concurrent.futures
 import math
 parcelDir = "###/LosAngelesData.csv"
-columns = [16, 83, 84] # Check these
+columns = [16, 85, 86] # Check these
 imageDir = "###/Images/"
 location = "LosAngeles"
 requestLink = "https://cache.gis.lacounty.gov/cache/rest/services/LACounty_Cache/LACounty_Aerial_2014/MapServer/export?bbox="
